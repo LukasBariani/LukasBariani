@@ -1,8 +1,9 @@
-## SOu um jovem gafanhoto!
-
-[![card](https://github-readme-stats.vercel.app/api?username=LukasBariani&theme=tokyonight](https://github.com/LukasBariani/github-readme-stats)
+## Sou um jovem gafanhoto! 🖖
 
 
+
+[![card](https://github-readme-stats.vercel.app/api?username=LukasBariani&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasBariani&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LukasBariani/LukasBariani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
