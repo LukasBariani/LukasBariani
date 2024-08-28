@@ -1,8 +1,8 @@
 ## SOu um jovem gafanhoto!
 
-[![card](https://github-readme-stats.vercel.app/api?username=LukasBariani&theme=default)](https://github.com/LukasBariani/github-readme-stats)
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-<img src="BadgeURLAqui" />
+[![card](https://github-readme-stats.vercel.app/api?username=LukasBariani&theme=Tokyonight
+](https://github.com/LukasBariani/github-readme-stats)
+
 
 <!--
 **LukasBariani/LukasBariani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
