@@ -1,7 +1,6 @@
 ## SOu um jovem gafanhoto!
 
-[![card](https://github-readme-stats.vercel.app/api?username=LukasBariani&theme=Tokyonight
-](https://github.com/LukasBariani/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=LukasBariani&theme=tokyonight](https://github.com/LukasBariani/github-readme-stats)
 
 
 <!--
