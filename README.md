@@ -1,20 +1,44 @@
-## Sou um jovem gafanhoto! 🖖
+# Lukas Bariani
 
+Desenvolvedor em formação, focado em construir aplicações limpas, organizadas e fáceis de manter.  
+Atualmente estudando **Java, JavaScript, APIs REST, Git e boas práticas de arquitetura**.
 
+---
 
-[![card](https://github-readme-stats.vercel.app/api?username=LukasBariani&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasBariani&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**LukasBariani/LukasBariani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tecnologias que uso
+- Java • Spring (aprendendo)  
+- JavaScript • Node.js (aprendendo)  
+- HTML • CSS  
+- MySQL  
+- Git e versionamento  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Projetos em destaque
+- **Projeto 1 — Nome do projeto**
+  - O que ele faz em 1 frase
+  - 📌 Tecnologias: Java / MySQL / etc.
+  - 🔗 link
+
+- **Projeto 2 — Nome do projeto**
+  - Problema que resolve
+  - 📌 Tecnologias
+  - 🔗 link
+
+- **Projeto 3 — Nome do projeto**
+  - O que você aprendeu construindo
+  - 🔗 link
+
+---
+
+### 🎯 Atualmente aprendendo
+- Estrutura de APIs
+- Testes automatizados
+- Organização em monorepos
+- Patterns e boas práticas
+
+---
+
+### 📫 Contato
+- Email:
+- LinkedIn:
