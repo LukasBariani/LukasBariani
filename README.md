@@ -4,13 +4,13 @@
 
 ---
 
-## 💻 Sobre mim
+##  Sobre mim
 Desenvolvedor em formação, focado em construir aplicações limpas, organizadas e fáceis de manter.  
 Atualmente estudando **Java, JavaScript, APIs REST, Git e boas práticas de arquitetura**.
 
 ---
 
-## 🚀 Tecnologias que uso
+##  Tecnologias que uso
 
 **Back-end:**  
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=fea50e)
@@ -30,7 +30,7 @@ Atualmente estudando **Java, JavaScript, APIs REST, Git e boas práticas de arqu
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=fea50e)
 
 ---
-## 📊 Estatísticas
+##  Estatísticas
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LukasBariani&show_icons=true&count_private=true&hide_border=true&title_color=fea50e&icon_color=a15307&text_color=DFDADA&bg_color=0d1117" alt="github stats" /> 
   
@@ -43,23 +43,23 @@ Atualmente estudando **Java, JavaScript, APIs REST, Git e boas práticas de arqu
 
 ---
 
-## 🔥 Projetos em destaque
+##  Projetos em destaque
 
 ### **Prime Language**
 Uma plataforma de ensino 100% online que conecta culturas globalmente através de aprendizado acessível, interativo e eficiente.  
-📌 **Tecnologias:** JavaScript • MySQL • PHP • HTML5 • CSS • Bootstrap  
-🔗 **Repositório:** https://github.com/etec-zona-leste-oficial/prime-language-escola-de-idiomas.git
+ **Tecnologias:** JavaScript • MySQL • PHP • HTML5 • CSS • Bootstrap  
+ **Repositório:** https://github.com/etec-zona-leste-oficial/prime-language-escola-de-idiomas.git
 
 ---
 
 ### **EcoView**
 Aplicação focada em monitorar variáveis ambientais para promover consciência ecológica.  
-📌 **Tecnologias:** JavaScript • MySQL • Node.js • HTML5 • CSS • Bootstrap • C++ • ESP32  
-🔗 **Repositório:** https://github.com/LukasBariani/API-NODE-ESP.git
+ **Tecnologias:** JavaScript • MySQL • Node.js • HTML5 • CSS • Bootstrap • C++ • ESP32  
+ **Repositório:** https://github.com/LukasBariani/API-NODE-ESP.git
 
 ---
 
-## 🎯 Atualmente aprendendo
+##  Atualmente aprendendo
 - Estrutura de APIs  
 - Testes automatizados  
 - Organização em monorepos  
